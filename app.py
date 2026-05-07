@@ -53,7 +53,7 @@ if "logs" not in st.session_state:
 # =========================================
 AUTH_URL = "https://saas-beeforce.labour.tech/authorization-server/oauth/token"
 BASE_URL = "https://saas-beeforce.labour.tech/resource-server/api/shift_templates"
-CLIENT_AUTH = "Basic YOUR_BASE64_TOKEN"
+CLIENT_AUTH = "BasicZXh0ZXJuYWwtY2xpZW50Ojg1dDQkS2JTWmtWRHNCdUQ="
 
 # =========================================
 # CUSTOM CSS
