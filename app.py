@@ -400,30 +400,23 @@ if menu == "Logs":
     else:
         st.info("No logs available")
 
-```
-
----
 
 # Deploy to Streamlit Cloud
 
-Open:
+#Open:
 
-[https://share.streamlit.io](https://share.streamlit.io)
+#[https://share.streamlit.io](https://share.streamlit.io)
 
-1. Upload app.py to GitHub
-2. Connect GitHub to Streamlit
-3. Deploy
-
----
+#1. Upload app.py to GitHub
+#2. Connect GitHub to Streamlit
+#3. Deploy
 
 # Default Login
 
-```bash
-Username: admin
-Password: admin123
-```
+#bash
+#Username: admin
+#Password: admin123
 
----
 
 # Features Included
 
