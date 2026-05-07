@@ -427,14 +427,14 @@ Password: admin123
 
 # Features Included
 
-✅ Login System
-✅ Token Generation
-✅ User Management
-✅ Admin Roles
-✅ Upload Excel
-✅ API Configuration
-✅ Dashboard
-✅ Logs
-✅ Enterprise UI
-✅ API Integration
-✅ Dynamic Future Expansion
+#✅ Login System
+#✅ Token Generation
+#✅ User Management
+#✅ Admin Roles
+#✅ Upload Excel
+#✅ API Configuration
+#✅ Dashboard
+#✅ Logs
+#✅ Enterprise UI
+#✅ API Integration
+#✅ Dynamic Future Expansion
